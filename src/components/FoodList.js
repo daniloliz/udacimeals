@@ -23,4 +23,4 @@ export default function FoodList ({ food, onSelect }) {
       ))}
     </ul>
   )
-}
+} 
